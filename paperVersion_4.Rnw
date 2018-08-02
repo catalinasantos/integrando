@@ -3,6 +3,8 @@
 %%%%
 % MAS PLOTS EN CORRELACION
 % \usepackage{adjustbox}
+%nuevo plot, controla tambien el tamaño del plot trabaja sobre el 
+%tanto el margen como el plot. para recortar el margen para eso es el adjustbox al decirle que recorte. 
 %%%%
 \usepackage{rotating}
 \usepackage[utf8]{inputenc}

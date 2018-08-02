@@ -3,6 +3,7 @@
 %%%%
 % PLOTS mapas
 % eval=FALSE
+%cuando corre latex lo considerara como un comentario, es para dejar un comandado por si acaso pero no lo queiro en el paper 
 % results=HIDE (verbatim default)
 %%%%
 \usepackage{rotating}

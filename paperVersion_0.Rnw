@@ -39,6 +39,7 @@ demoTable=table(dataidx$Democracy)
 demoTable
 @
 
+
 Ahora las frecuencias relativas:
 <<demoTableRel>>=
 demoTableRel=round(prop.table(demoTable)*100,1)

@@ -5,6 +5,7 @@
 % \pageref
 % \footnote
 % \clearpage
+%es como poner en word shift enter
 % \emph
 % \bf
 % ...y "label'/'lab'; font.size en reporttable
@@ -19,7 +20,7 @@
 
 \title{LOS INDICES DEL MUNDO}
 % autores
-\renewcommand\Authand{, y }
+\renewcommand\Authand{, y } %para que lso autores se separen por y en lugar de and
 \author[1]{\normalsize Estrella DelCurso}
 \author[2]{\normalsize Prossimo Deal Lado}
 
